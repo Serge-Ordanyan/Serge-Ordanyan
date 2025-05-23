@@ -1,37 +1,77 @@
-<h1 align="center">Hi, I'm Serge Ordanyan 🚀</h1>
-<p align="center">Creative Studio Developer · Fullstack Engineer · Digital Craftsman</p>
+<h1 align="center">🔥 Serge Ordanyan — Creative Technologist 🚀</h1>
+<p align="center">Building elite experiences in Web, Mobile & Desktop with style and speed</p>
+
+<p align="center">
+  <a href="https://pipelun.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Pipelun.com-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Serge-Ordanyan" target="_blank">
+    <img src="https://img.shields.io/github/followers/Serge-Ordanyan?label=Follow&style=flat-square" />
+  </a>
+  <a href="mailto:sayhello@pipelun.com">
+    <img src="https://img.shields.io/badge/Email-sayhello@pipelun.com-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
-- 🔥 Founder of **[Pipelun](https://pipelun.com)** – A Creative Studio
-- 💻 I craft exceptional **web**, **mobile**, and **desktop** experiences.
-- 🎯 Built with performance, elegance, and human touch.
+### 🧠 About Me
+- 💥 Founder of [Pipelun](https://pipelun.com)
+- 💻 Fullstack Developer | UI/UX Craftsman | Motion Lover
+- 🛠 Working with: Next.js · React · Node.js · Tailwind · Docker · Tauri · MongoDB · Rust · Figma · Blender
 
 ---
 
-### 🧰 Tech Toolbox
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
+### 🔥 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,ts,js,mongodb,mysql,git,docker,vercel,figma,rust" />
+</p>
 
 ---
 
-### ✨ Projects & Work
-🔗 **[Visit Pipelun →](https://pipelun.com)**  
-💼 Portfolio of high-performance apps built for real-world users.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Serge-Ordanyan&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serge-Ordanyan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serge-Ordanyan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📬 Let’s Connect
-- 🧠 [LinkedIn](https://am.linkedin.com/in/serge-ordanyan-882556209)
-- 💻 [GitHub](https://github.com/Serge-Ordanyan)
-- ✉️ sayhello@pipelun.com
+### 📈 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Serge-Ordanyan&style=flat-square&color=blue" />
+</p>
+
+---
+
+### 🚀 Projects
+
+- 🧠 [Pipelun](https://pipelun.com) – Creative Studio Portfolio
+- ⚡️ ERP-Like Desktop App w/ Rust + MySQL
+- 📱 3 Mobile Apps (FCM, Socket.IO powered)
+- 🧭 Connectrip – Smart Carpooling
+
+---
+
+### 🤝 Let’s Connect
+
+- [🌐 Website](https://pipelun.com)
+- [🔗 LinkedIn](https://am.linkedin.com/in/serge-ordanyan-882556209)
+- [💻 GitHub](https://github.com/Serge-Ordanyan)
+- [📬 Email](mailto:sayhello@pipelun.com)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Serge Ordanyan</b> · © 2025
+  Crafted with ❤️ by <strong>Serge Ordanyan</strong> · © 2025
 </p>
