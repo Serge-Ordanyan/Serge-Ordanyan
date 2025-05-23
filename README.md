@@ -14,10 +14,10 @@
 ### ⚡ About Me
 
 - 🧠 I craft web, mobile, desktop, and 3D experiences
-- ✨ Founder of **[Pipelun](https://pipelun.com)** — where tech meets magic
+- 🌱 Behind Pipelun — experimenting with ideas, design, and code
 - 🔥 Passionate about animation, performance, and clean UX
-- 🎯 Obsessed with **Rust**, **Tauri**, **VIM**, and **beautiful UIs**
-- 🧰 Pro in deployment (Docker, Nginx, PM2, Certbot)
+- 🛠 From Rust & Tauri to React & Rive — I build with precision and flair  
+- 🧰  From motion to deployment — I sweat the details 
 
 ---
 
