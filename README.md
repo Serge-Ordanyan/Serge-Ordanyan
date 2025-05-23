@@ -49,6 +49,14 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 
+
+#### 🧙 VIM Enthusiast
+> *"I don’t need a mouse — I have muscle memory."*
+
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2300BFA6.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+
 ---
 
 ### 🧩 GitHub Stats
