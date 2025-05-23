@@ -51,7 +51,6 @@
 
 
 #### 🧙 VIM Enthusiast
-> *"I don’t need a mouse — I have muscle memory."*
 
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2300BFA6.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -77,4 +76,4 @@
 
 ---
 
-> ⚙️ *"Make it work. Make it right. Make it fast." — Kent Beck*
+
