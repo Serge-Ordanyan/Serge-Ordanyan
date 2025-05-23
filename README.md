@@ -33,6 +33,8 @@
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Rive](https://img.shields.io/badge/-Rive_Animations-000000?logo=rive&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
@@ -45,8 +47,7 @@
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge)
-![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)
+
 
 ---
 
