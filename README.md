@@ -11,15 +11,9 @@
 
 ---
 
-### ⚡ About Me
 
-- 🧠 I craft web, mobile, desktop, and 3D experiences
-- 🌱 Behind Pipelun — experimenting with ideas, design, and code
-- 🔥 Crafting sleek, minimal designs with robust, scalable backends (from simple APIs to complex systems) and a strong focus on security
-- 🛠 From Rust & Tauri to React & Rive — I build with precision and flair  
-- 🧰  From motion to deployment — I sweat the details 
 
----
+
 
 ### 🧠 Tech Stack
 
