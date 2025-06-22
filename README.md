@@ -67,6 +67,7 @@
 - 📧 sayhello@pipelun.com
 - 💼 [LinkedIn](https://am.linkedin.com/in/serge-ordanyan-882556209)
 - 🖤 [GitHub](https://github.com/Serge-Ordanyan)
+- 🐦 X (https://x.com/SOrdanyan)
 
 ---
 
